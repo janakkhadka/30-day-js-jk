@@ -21,3 +21,11 @@ console.log(test,fName, lName, country, city, age, isMarried)
 const gravity=9.8
 const PI=3.14
 console.log(gravity, PI)
+
+//exercise
+//1.comments can make code readable
+//2.welocme to 30DaysOfJavaScript
+/*3.comments can make code readable,
+easy to use and informative*/
+
+
