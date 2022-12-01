@@ -75,6 +75,16 @@ console.log(string1.search('love'))          // 2
 console.log(string1.search(/javascript/gi))  // 7
 console.log(Math.min(2,3,4,6,-9,8,0,2))
 
+//ex level-2 4
+let num4=9.8
+let numint=parseInt(Math.round(num4))
+document.write(numint)
+
+
+
+
+
+
 
 
 
